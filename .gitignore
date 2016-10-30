@@ -1,0 +1,15 @@
+*.pyc
+*egg*
+*.swp
+*.swo
+*.swn
+*.swp
+build
+./build
+dist/
+./dist
+build/
+./venv
+venv/
+./play.py
+play.py
